@@ -1,0 +1,1 @@
+﻿document.write('Rs. 1,24,999/-')

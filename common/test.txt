@@ -1,0 +1,5 @@
+﻿document.write('<center><h1> <font color="navy"> Get HTML Code Help At NetMechanic!</font> </h1> </center>')
+
+
+
+document.write('<center><h1> <font color="navy"> Get HTML Code Help At NetMechanic!</font> </h1> </center>')
